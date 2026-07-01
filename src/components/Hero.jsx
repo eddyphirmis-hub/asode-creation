@@ -1,6 +1,6 @@
 import heroModels from "../assets/images/imageproduitaccueil.png";
-import heroLogo from "../assets/images/logo2.png";
-import heroPoster from "../assets/images/affiche-evenement.png";
+import heroLogo from "../assets/images/logo1.png";
+import heroPoster from "../assets/images/photocreateur.png";
 
 function Hero() {
   return (

@@ -1,5 +1,5 @@
 import product1 from "../assets/images/produit1.png";
-import product2 from "../assets/images/produit5.png";
+import product2 from "../assets/images/identité-visuelle.png";
 
 const products = [
   { id: 1, image: product1, name: "Produit 1" },
