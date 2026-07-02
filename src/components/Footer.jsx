@@ -1,3 +1,8 @@
+import logoinsta from "../assets/images/logoinstagram.png";
+import logomail from "../assets/images/mail.png";
+
+
+
 function Footer() {
   return (
     <footer className="footer">
@@ -10,8 +15,8 @@ function Footer() {
       </nav>
 
       <div className="footer-social">
-        <a href="#" aria-label="Réseau 1">⬜</a>
-        <a href="#" aria-label="X (Twitter)">✕</a>
+        <a href="https://www.instagram.com/stories/asode_creation/" aria-label="Instagram"><img src={logoinsta} alt="Logo Instagram" className="header-logo" /></a>
+        <a href="mailto:eg.waxandco@gmail.com" aria-label="Email"><img src={logomail} alt="Logo Email" className="header-logo" /></a>
         <a href="#" aria-label="Réseau 2">⬜</a>
       </div>
     </footer>
