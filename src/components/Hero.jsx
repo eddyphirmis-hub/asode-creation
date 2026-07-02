@@ -9,7 +9,9 @@ function Hero() {
 
       <div className="hero-quote">
         <img src={heroLogo} alt="Logo Asode écureuil" />
-        <p>Asode, c'est pas juste une marque. C'est une direction.</p>
+
+        <p>Confection textile broderie à l'unité ou en série pour entreprise ou marque</p>
+
       </div>
 
       <img src={heroPoster} alt="Affiche événement Street Warriors" className="hero-image" />

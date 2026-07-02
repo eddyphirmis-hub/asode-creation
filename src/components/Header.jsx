@@ -12,6 +12,8 @@ function Header() {
         <button>A Propos</button>
       </nav>
 
+      <p>Asode, c'est pas juste une marque. C'est une direction.</p>
+
       <button className="header-cart" aria-label="Panier">🛒</button>
     </header>
   );
